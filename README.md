@@ -6,6 +6,8 @@
 [![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)](https://developer.apple.com/documentation/swift)
+[![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/manual/)
 
 ### I'm using these tools and os
 
