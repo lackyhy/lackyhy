@@ -3,18 +3,16 @@
 ### I'm a beginner programmer
 
 ### Languages
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)
+[![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
+[![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)](https://developer.apple.com/documentation/swift)
 
 ### Tools
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SSH](https://img.shields.io/badge/-SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-fallow me
+[![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=vscode&logoColor=007ACC)](https://code.visualstudio.com/docs)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00FF00)](https://www.jetbrains.com/pycharm/documentation/)
+[![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://learning.postman.com/docs/)
+[![SSH](https://img.shields.io/badge/-SSH-000000?style=for-the-badge&logo=ssh&logoColor=FFFFFF)](https://www.ssh.com/academy/ssh)
+[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://wiki.archlinux.org/)
+[![Debian](https://img.shields.io/badge/-Debian-000000?style=for-the-badge&logo=debian&logoColor=A81D33)](https://www.debian.org/doc/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://help.ubuntu.com/)
