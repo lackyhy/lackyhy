@@ -27,3 +27,5 @@
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=00ADEE)](https://steamcommunity.com/id/lackyhyyy_Xxx/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/966009647871983701)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=E60023)](https://pin.it/6XDJ3KGLt)
+
+![](https://komarev.com/ghpvc/?username=lackyhy)
