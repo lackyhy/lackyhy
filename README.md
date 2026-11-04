@@ -1,31 +1,17 @@
-<!-- [![Header](https://github.com/lackyhy/lackyhy/blob/main/assets/header.jpeg)](https://github.com/lackyhy) -->
+<div align="center">
 
-### I'm a beginner programmer and I'm setting up my own VPS-server on x-ui 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Lcky"></picture>
 
-### Languages
-[![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
-[![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)](https://developer.apple.com/documentation/swift)
-[![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
-[![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/manual/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="24.995%" alt=""></picture><a href="https://discord.gg/A4VyFrNybX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://t.me/lackyhyyy666"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://steamcommunity.com/id/lackyhyyy_Xxx/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.335%" alt="steam"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="24.995%" alt=""></picture>
 
-### I'm using these tools and os
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-[![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=vscode&logoColor=007ACC)](https://code.visualstudio.com/docs)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00FF00)](https://www.jetbrains.com/pycharm/documentation/)
-[![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://learning.postman.com/docs/)
-[![MobaXterm](https://img.shields.io/badge/-MobaXterm-000000?style=for-the-badge&logo=microsoft&logoColor=00ADEF)](https://mobaxterm.mobatek.net/)
-[![SSH](https://img.shields.io/badge/-SSH-000000?style=for-the-badge&logo=ssh&logoColor=FFFFFF)](https://www.ssh.com/academy/ssh)
-[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://wiki.archlinux.org/)
-[![Debian](https://img.shields.io/badge/-Debian-000000?style=for-the-badge&logo=debian&logoColor=A81D33)](https://www.debian.org/doc/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://help.ubuntu.com/)
-[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kali&logoColor=557C94)](https://www.kali.org/docs/)
-[![Windows 11](https://img.shields.io/badge/-Windows_11-000000?style=for-the-badge&logo=windows&logoColor=00A4EF)](https://learn.microsoft.com/windows/)
+<a href="https://github.com/lackyhy/Protocol-list"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-protocol-list-dark.svg"><img src="assets/project-protocol-list-light.svg" width="49%" alt="Protocol-list"></picture></a>&nbsp;<a href="https://github.com/lackyhy/7SCW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-7scw-dark.svg"><img src="assets/project-7scw-light.svg" width="49%" alt="7SCW"></picture></a>
 
-### Me
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=0088CC)](https://t.me/aboutLcky)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=00ADEE)](https://steamcommunity.com/id/lackyhyyy_Xxx/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/966009647871983701)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=E60023)](https://pin.it/6XDJ3KGLt)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-![](https://komarev.com/ghpvc/?username=lackyhy&color=blueviolet&style=flat-square)
+<a href="https://lcky.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=lackyhy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>

@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "login": "lackyhy",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "stats",
+    "projects",
+    "wave",
+    "streak",
+    "about",
+    "stack",
+    "buttons"
+  ],
+  "hidden": [
+    "stack",
+    "streak",
+    "about"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Lcky",
+    "subtitle": "I deal with network issues and network setup.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Moscow"
+      },
+      {
+        "icon": "code",
+        "label": "C++ · Python"
+      },
+      {
+        "icon": "http",
+        "label": "HTTP/HTTPS"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Protocol-list",
+      "7SCW"
+    ],
+    "overrides": {
+      "Protocol-list": {
+        "text": "list of protocols and their description"
+      },
+      "7SCW": {
+        "text": "windows administration"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/A4VyFrNybX"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/lackyhyyy666"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/lackyhyyy_Xxx/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://lcky.ru",
+        "style": "filled"
+      }
+    ]
+  }
+}
